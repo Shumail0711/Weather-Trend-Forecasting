@@ -17,14 +17,15 @@ This project focuses on cleaning, analyzing, visualizing, and forecasting global
 ## Requirements
 The following libraries are required to run the code:
 
-```bash
+bash
 pandas
 numpy
 scikit-learn
 matplotlib
 seaborn
 statsmodels
-joblib
+joblib  
+
 ## Data Preprocessing
 The initial data preprocessing includes the following steps:
 
